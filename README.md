@@ -1,4 +1,4 @@
-# Supervised-Project
+# Supervised-Tree-Project
 The data set includes information about:
 
 Customers who left within the last month – the column is called Churn
