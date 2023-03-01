@@ -7,3 +7,5 @@ Customer account information – how long they’ve been a customer, contract, p
 Demographic info about customers – gender, age range, and if they have partners and dependents
 
 Aim of the project is to predict Churn column.
+
+In the project, I have used two different models, and I have compared them in terms of the
