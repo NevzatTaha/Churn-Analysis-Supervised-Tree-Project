@@ -23,7 +23,7 @@ It explains correlation between variables and customers who left within the last
 
 ![download](https://user-images.githubusercontent.com/108625825/224069808-1bdd4682-8a55-46d9-9f7e-71e08102a831.png)
 
-These are confusion amtrix for two different models. Below is the more accurate model for which has 78% accuracy.
+These are confusion matrix for two different models. Below is the more accurate model for which has 78% accuracy.
 
 
 ![download](https://user-images.githubusercontent.com/108625825/224070513-a167de64-fc01-43cc-a581-1865b1535720.png)
