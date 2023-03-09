@@ -32,4 +32,4 @@ These are confusion matrix for two different models. Below is the more accurate 
 https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 
 # Author
-Knowledge grows when shared !!! 
+Nevzat- Knowledge grows when shared !!! 
