@@ -11,7 +11,7 @@ Services that each customer has signed up for  phone, multiple lines, internet, 
 Customer account information – how long they’ve been a customer, contract, payment method, paperless billing, monthly charges, and total charges
 Demographic info about customers – gender, age range, and if they have partners and dependents
 
-# Some Screenshots
+# Screenshots
 
 This is a visual explanation of relation between number of months the customer has stayed with the company and the amount charged to the customer monthly according to different contract
 
