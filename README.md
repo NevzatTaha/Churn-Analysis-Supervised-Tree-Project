@@ -28,8 +28,8 @@ These are confusion matrix for two different models. Below is the more accurate 
 
 ![download](https://user-images.githubusercontent.com/108625825/224070513-a167de64-fc01-43cc-a581-1865b1535720.png)
 
-# Data set link
+# Dataset link
 https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 
 # Author
-Good Coding !!! 
+Knowledge grows when shared !!! 
