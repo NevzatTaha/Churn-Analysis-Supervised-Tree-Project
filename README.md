@@ -1,4 +1,7 @@
 # Supervised-Tree-Project
+
+This project is a final project supervised project of Python for Machine Learning Data Science Master Class.
+
 The data set includes information about:
 
 Customers who left within the last month – the column is called Churn
